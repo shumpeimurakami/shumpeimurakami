@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/shumpeimurakami/shumpeimurakami/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-![](https://www.codewars.com/users/shumpeimurakami/badges/large()
+![](https://www.codewars.com/users/shumpeimurakami/badges/large)
